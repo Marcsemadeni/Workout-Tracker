@@ -1,0 +1,12 @@
+main {
+  max-width: 400px;
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.buttons {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
